@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>dk Releases Nexus Repository</name>
-	      <url>http://3.110.204.253:8888/arfinfakruddin/repository/dk-release/</url>
+	      <url>http://65.0.170.138:8888/arfinfakruddin/repository/dk-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>dk Snapshot Nexus Repository </name>
-	      <url>http://3.110.204.253:8888/arfinfakruddin/repository/dk-snapshot/</url>
+	      <url>http://65.0.170.138:8888/arfinfakruddin/repository/dk-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
